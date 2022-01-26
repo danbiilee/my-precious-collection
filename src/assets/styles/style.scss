@@ -1,0 +1,19 @@
+@import './reset';
+
+@font-face {
+  font-family: 'Kopub Dotum';
+  src: url('../fonts/KoPubDotum/KoPubDotumLight.woff') format('woff');
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  font-family: 'KoPub Dotum';
+  font-weight: bold;
+  font-size: 62.5%;
+}
+
+#app {
+  background-color: #0d1a21;
+  color: #fff;
+  font-size: 1.8rem;
+}

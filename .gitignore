@@ -1,0 +1,10 @@
+
+# dependencies
+node_modules
+
+# setting
+.vscode
+
+# production
+/dist
+*.zip
